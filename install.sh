@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
  ui_print "***************************************"
-  ui_print "  MUSIK FX PLAYER RETRO"
- ui_print "   Randi 356 @ Github.com  "
+ ui_print "  MUSIK FX PLAYER RETRO NEW "
+ ui_print "   Randi356@Github.com  "
  ui_print "***************************************"
 }
 
