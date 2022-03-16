@@ -2,6 +2,10 @@
 Bug fixes Fx Music application can open
 
 - `MusikFx`
+- `Magisk
+- `twrp
+- `root
+- `termux`
 
 # what's MusicFx-Retro? New Updates 
 ```
